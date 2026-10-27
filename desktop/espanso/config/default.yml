@@ -1,0 +1,7 @@
+# Espanso configuration
+# Required for Wayland: specify your keyboard layout
+keyboard_layout:
+  layout: "us" # Change to "gb", "de", etc. if you don't use US standard
+
+# Optional: Make espanso toggle with a keyboard shortcut
+# toggle_key: OFF 
